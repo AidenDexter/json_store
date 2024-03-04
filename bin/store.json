@@ -1,0 +1,19 @@
+{
+  "strList": [
+    "a",
+    "b",
+    "c"
+  ],
+  "int": 55,
+  "bool": true,
+  "double": 99,
+  "map": {
+    "a": 1,
+    "b": 2
+  },
+  "intList": [
+    1,
+    2,
+    3
+  ]
+}
